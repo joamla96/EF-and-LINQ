@@ -15,7 +15,6 @@ namespace DAL.EF
             Products = new HashSet<Product>();
         }
 
-        [Key][DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
 
         [StringLength(50)]
