@@ -1,4 +1,4 @@
-namespace DAL.EF {
+namespace DAL {
 	using System;
 	using System.Data.Entity;
 	using System.ComponentModel.DataAnnotations.Schema;

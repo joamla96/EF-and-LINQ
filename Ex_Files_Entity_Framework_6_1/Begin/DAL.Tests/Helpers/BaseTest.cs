@@ -1,5 +1,5 @@
 ﻿using System;
-using DAL.EF;
+using DAL;
 
 namespace DAL.Tests.Helpers
 {

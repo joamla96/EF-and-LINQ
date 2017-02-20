@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
 using System.Text;
-using DAL.EF;
+using DAL;
 using DAL.Tests.Helpers;
 using Xunit;
 
